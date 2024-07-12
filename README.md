@@ -1,4 +1,4 @@
-NAME: Ramanesh M
+Name: Ramanesh M
 
 Domain: Embedded Systems
 
